@@ -1,0 +1,10 @@
+streamlit
+pandas
+openpyxl
+plotly
+langchain
+langchain-experimental
+langchain-openai
+openai
+numpy
+tiktoken
